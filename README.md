@@ -12,8 +12,8 @@ The JavaScript Event Loop Simulator is a tool designed to help users understand 
 To use the simulator, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone <https://github.com/pritamkumarshahi/JS-EVENT-LOOP-SIMULATOR.git>
-cd <JS-EVENT-LOOP-SIMULATOR>
+git clone https://github.com/pritamkumarshahi/JS-EVENT-LOOP-SIMULATOR.git
+cd JS-EVENT-LOOP-SIMULATOR
 npm install
 npm start
 npm run build
