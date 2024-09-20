@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JS-EVENT-LOOP-SIMULATOR/static/css/main.e6c13ad2.css",
+    "main.js": "/JS-EVENT-LOOP-SIMULATOR/static/js/main.8c609d31.js",
+    "static/js/453.4ae6688b.chunk.js": "/JS-EVENT-LOOP-SIMULATOR/static/js/453.4ae6688b.chunk.js",
+    "index.html": "/JS-EVENT-LOOP-SIMULATOR/index.html",
+    "main.e6c13ad2.css.map": "/JS-EVENT-LOOP-SIMULATOR/static/css/main.e6c13ad2.css.map",
+    "main.8c609d31.js.map": "/JS-EVENT-LOOP-SIMULATOR/static/js/main.8c609d31.js.map",
+    "453.4ae6688b.chunk.js.map": "/JS-EVENT-LOOP-SIMULATOR/static/js/453.4ae6688b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8c609d31.js"
+  ]
+}
