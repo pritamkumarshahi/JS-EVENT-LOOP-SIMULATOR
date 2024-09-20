@@ -59,5 +59,8 @@ After running the code, observe the changes in the visual representation of the 
 
 If you would like to contribute to the project, feel free to fork the repository and submit a pull request with your enhancements or bug fixes.
 
+## DEMO
+
+https://github.com/user-attachments/assets/57c6bf86-f894-40b1-82a8-b1bbd28bd0c9
 
 **Note: npm run eject this is one-way operation. Once you eject, you can't go back!**
